@@ -124,5 +124,6 @@ target/
 
 # Eclipse settings
 .settings/
+.factorypath
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,windows
